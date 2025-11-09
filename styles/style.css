@@ -44,10 +44,6 @@ body {
 }
 
 .header__address {
-  font-style: inherit;
-}
-
-.header__address {
   justify-self: end;
   font-style: inherit;
   padding-right: 85px;
@@ -185,7 +181,6 @@ body {
 .lots__list-item-card-book {
   width: 334px;
   height: 596px;
-  height: 100%;
   background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), 
               url("../images/card-lot-02.jpg") center/cover;
   display: flex;
