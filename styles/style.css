@@ -1,6 +1,6 @@
-/*body {
-  background-color: aquamarine;
-}*/
+.body {
+  overflow-y: hidden;
+}
 
 .header {
   background-color: #fff;
